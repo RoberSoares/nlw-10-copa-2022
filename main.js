@@ -50,71 +50,71 @@ document.querySelector("#cards").innerHTML =
     "24/11",
     "quinta",
     createGame("Switzerland", "10:00", "cameroon") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+      createGame("uruguay", "13:00", "south korea") +
+      createGame("portugal", "16:00", "ghana") +
+      createGame("brazil", "19:00", "serbia")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "25/11",
+    "sexta",
+    createGame("wales", "10:00", "iran") +
+      createGame("qatar", "13:00", "senegal") +
+      createGame("netherlands", "16:00", "ecuador") +
+      createGame("England", "19:00", "united states")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "26/11",
+    "sábado",
+    createGame("tunisia", "10:00", "australia") +
+      createGame("poland", "13:00", "saudi arabia") +
+      createGame("france", "16:00", "denmark") +
+      createGame("argentina", "19:00", "mexico")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "27/11",
+    "domingo",
+    createGame("japan", "10:00", "costa rica") +
+      createGame("belgium", "13:00", "morocco") +
+      createGame("croatia", "16:00", "canada") +
+      createGame("spain", "19:00", "germany")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "28/11",
+    "segunda",
+    createGame("cameroon", "10:00", "serbia") +
+      createGame("south korea", "13:00", "ghana") +
+      createGame("brazil", "16:00", "switzerland") +
+      createGame("portugal", "19:00", "uruguay")
   ) +
   createCard(
-    "22/12",
+    "29/11",
     "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    createGame("ecuador", "15:00", "senegal") +
+      createGame("netherlands", "15:00", "qatar") +
+      createGame("iran", "19:00", "united states") +
+      createGame("wales", "19:00", "england")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "30/11",
+    "quarta",
+    createGame("tunisia", "15:00", "france") +
+      createGame("australia", "15:00", "denmark") +
+      createGame("poland", "19:00", "argentina") +
+      createGame("saudi arabia", "19:00", "mexico")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "01/12",
+    "quinta",
+    createGame("croatia", "15:00", "belgium") +
+      createGame("canada", "15:00", "morocco") +
+      createGame("japan", "19:00", "spain") +
+      createGame("costa rica", "19:00", "germany")
   ) +
   createCard(
-    "22/12",
-    "terça",
-    createGame("argentina", "10:00", "saudi arabia") +
-      createGame("denmark", "13:00", "tunisia") +
-      createGame("mexico", "16:00", "poland") +
-      createGame("france", "19:00", "australia")
+    "02/12",
+    "sexta",
+    createGame("south korea", "15:00", "portugal") +
+      createGame("ghana", "15:00", "uruguay") +
+      createGame("serbia", "19:00", "switzerland") +
+      createGame("cameroon", "19:00", "brazil")
   )
